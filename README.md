@@ -3,7 +3,7 @@
 
 The project shares the code used to compare different models (binary, multinomial, Cox, cause-specific and Fine-Gray) for 7-days CLABSI prediction.
 
-The playground directory contains numbered R scripts used to:
+The playground directory contains R scripts used to:
 
 create baseline models (BASE_model_MF_xx_xx_days)
 
